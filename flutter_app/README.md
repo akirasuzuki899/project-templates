@@ -40,11 +40,6 @@ macOS 11以降以降が必要です。
    ```zsh
    gem install cocoapods
    ```
-2. パスを通す
-   ```zsh
-   export PATH=$HOME/.gem/bin:$PATH
-   source ~/.zshrc
-   ```
 
 手順完了後、以下のコマンドを実行してエラーが出なければ正常に設定できています：
 ```zsh
